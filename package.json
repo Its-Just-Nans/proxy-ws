@@ -1,0 +1,14 @@
+{
+    "dependencies": {
+        "http-proxy": "^1.18.1"
+    },
+    "name": "@n4n5/proxy-ws",
+    "version": "1.0.5",
+    "main": "./bin/proxy-ws.js",
+    "bin": {
+        "proxy-ws": "./bin/proxy-ws.js"
+    },
+    "author": "n4n5",
+    "license": "MIT",
+    "description": "Tiny CLI for a ws proxy"
+}
